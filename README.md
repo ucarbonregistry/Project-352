@@ -43,3 +43,66 @@ Renewal under CDM no longer possible
 CERs Issued (Period 1) None
 
 Monitoring Report (Period 1) 13/12/2012 to 31/12/2015. ( As Displayed on the CDM Registry)
+______________________
+UCR ISSUE DATE: 27/11/2023
+
+Serial Number: 0001-000001-039851-UCR-CoU-IN-352-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity in CoU: 39851
+______________
+Serial Number: 0001-039852-081573-UCR-CoU-IN-352-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity in CoU: 41722
+____________________________
+Serial Number: 0001-081574-124913-UCR-CoU-IN-352-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity in CoU: 43340
+__________________________
+Serial Number: 0001-124914-168403-UCR-CoU-IN-352-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity in CoU: 43490
+__________________
+
+Serial Number: 0001-168404-208676-UCR-CoU-IN-352-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity in CoU: 40273
+_____________________
+Serial Number: 0001-208677-251351-UCR-CoU-IN-352-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity in CoU: 42675
+______________________
+Serial Number: 0001-251352-289570-UCR-CoU-IN-352-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity in CoU: 38219
+__________________
+Serial Number: 0001-289571-337335-UCR-CoU-IN-352-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity in CoU: 47765
+__________________
+Serial Number: 0001-337336-370657-UCR-CoU-IN-352-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity in CoU: 33322
+______________________
+Serial Number: 0001-370658-421157-UCR-CoU-IN-352-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity in CoU: 50500
